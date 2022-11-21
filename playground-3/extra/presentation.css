@@ -1,0 +1,27 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.container {
+  background-color: #c3a9ff;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 9vh auto auto auto;
+  min-height: 80vh;
+}
+
+.item {
+  text-align: center;
+  line-height: 2;
+  font-weight: bold;
+  font-size: 1.5rem;
+  border: 5px solid #193c62;
+}

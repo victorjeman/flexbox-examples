@@ -1,0 +1,22 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.container {
+  height: 200px;
+  background-color: #c3a9ff;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 100px auto auto auto;
+}
+
+.item {
+  background-color: #75cbac;
+  border: 2px solid #193c62;
+}
